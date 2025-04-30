@@ -1,12 +1,14 @@
 # Repo_lab_2
 Masterat USARB 2025
+
 Acest repozitoriu este creat pentru efectuarea lucrării de laborator 2
+
 Sarcini:
 1. Clonează repozitoriul Repo_lab_2
 2. Crează două ramuri („First” și „Second”) pornind din ramura principală
 3. Realizează modificări conflictuale în fișier, pe aceleași linii
 •	Pe ramura first:
-o	Deschide un fișier existent, de exemplu file.txt.
+o	Deschide fișierul file.txt.
 o	Adaugă linia („Modificare din prima ramura”).
 o	Salvează modificările
 o	Creează commit
