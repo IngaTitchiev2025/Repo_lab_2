@@ -4,3 +4,5 @@ Adaugă și modifică în el pentru a putea rezolva conflictele
 a+b=c
 
 Modificare din ramura a doua + Modificare din prima ramura
+Modificare din prima ramura
+Modificare din ramura a doua
