@@ -3,4 +3,5 @@ Adaugă și modifică în el pentru a putea rezolva conflictele
 inca o modificare pentru pull request
 a+b=c
 
+Modificare din prima ramura
 Modificare din ramura a doua
