@@ -2,5 +2,6 @@ Acesta este conținutul de bază al fișierului
 Adaugă și modifică în el pentru a putea rezolva conflictele
 încă o modificare pentru pull request
 a+b=c
+Modificare din prima ramura
 Modificare din ramura a doua
 Modificare din ramura a doua + Modificare din prima ramura
